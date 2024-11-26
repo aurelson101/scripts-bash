@@ -19,9 +19,3 @@ This script automates the installation and configuration of an OpenVPN server wi
 - Active Directory domain
 - Network connectivity to AD domain
 - VPN-FULL group created in Active Directory
-
-## Installation
-
-1. Download the script:
-```bash
-wget https://your-repo/openvpn_ad_setup.sh
